@@ -14,9 +14,9 @@ namespace GraphQLHotChocolateAPI.Queries
             _context = context;
         }
 
-        public async Task<IEnumerable<ProductInfo>> GetProducts()
+        public List<ProductInfo> GetProducts()
         {
-            var data = await _context.ProductInfo.AsNoTracking().ToListAsync();
+            var data = _context.ProductInfo.AsNoTracking().ToList();
             return data;
         }
     }
