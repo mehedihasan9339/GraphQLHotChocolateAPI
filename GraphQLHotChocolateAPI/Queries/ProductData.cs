@@ -14,6 +14,9 @@ namespace GraphQLHotChocolateAPI.Queries
             _context = context;
         }
 
+        [UseProjection]
+        [UseFiltering]
+        [UseSorting]
         public List<ProductInfo> GetProducts()
         {
             var data = _context.ProductInfo.AsNoTracking().ToList();
