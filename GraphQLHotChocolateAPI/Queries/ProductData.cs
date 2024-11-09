@@ -10,13 +10,11 @@ namespace GraphQLHotChocolateAPI.Queries
     {
         private readonly databaseContext _context;
 
-        // Ensure that context is injected correctly through constructor
         public ProductData(databaseContext context)
         {
             _context = context;
         }
 
-        // This should be fine, as it’s still within the scope of the request
         [UseProjection]
         [UseFiltering]
         [UseSorting]
