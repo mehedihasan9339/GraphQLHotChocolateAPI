@@ -45,8 +45,8 @@ namespace GraphQLHotChocolateAPI.Mutations
             product.qty = input.Qty ?? product.qty;
             product.stock = input.Stock ?? product.stock;
 
-            await _context.SaveChangesAsync(); // Save changes to the database
-            return product;                     // Return the updated product
+            await _context.SaveChangesAsync();
+            return product;
         }
 
         // Mutation for deleting a product by its ID
