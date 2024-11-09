@@ -116,5 +116,43 @@ public async Task<ProductInfo> CreateProduct(ProductInput input)
    }
    ```
 
-![Alt text](path/to/image.png)
+
+
+
+### **Post Data Using GraphQL PlayGround**
+![Post Data Using GraphQL PlayGround](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/post-data-using-graphql-playground.png?token=GHSAT0AAAAAACRCHBVGZXUG4HGUF3QAR4J4ZZPXSBA)
+
+
+### **Post Data Using Postman**
+![Post Data Using Postman](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/post-data-using-graphql-postman.png?token=GHSAT0AAAAAACRCHBVGNIN5F44GABI2LN7UZZPXTIQ)
+
+
+### **Post Data Using Postman GraphQL Tab**
+![Post Data Using Postman GraphQL Tab](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/post-using%20GraphQL-tab.png?token=GHSAT0AAAAAACRCHBVGQQWOTL7BKHIQTJTAZZPXTXA)
+
+
+### **Update Data Using GraphQL PlayGround**
+![Update Data Using GraphQL PlayGround](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/update-data-graphql-playground.png?token=GHSAT0AAAAAACRCHBVH4DBHDZNMWRYXJWBQZZPXUJA)
+
+
+### **Update Data Using Postman**
+![Update Data Using Postman](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/update-data-graphql-postman.png?token=GHSAT0AAAAAACRCHBVHTNLXWQ6BUQJOJJ66ZZPXUVQ)
+
+
+### **Fetch Data Using GraphQL PlayGround**
+![Fetch Data Using GraphQL PlayGround](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/fetch-data-graphql-playground.png?token=GHSAT0AAAAAACRCHBVGL7WL6ASUGS5PZ2VUZZPXVEA)
+
+
+### **Fetch Data Using Postman**
+![Fetch Data Using Postman](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/fetch-data-graphql-postman.png?token=GHSAT0AAAAAACRCHBVG473R5ZHDDRTI4ZPQZZPXVRA)
+
+
+### **Delete Data Using GraphQL PlayGround**
+![Delete Data Using GraphQL PlayGround](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/delete-data-graphql-playground.png?token=GHSAT0AAAAAACRCHBVGIEIHLLNRFYSPJQ6UZZPXV7Q)
+
+
+### **Delete Data Using postman**
+![Delete Data Using postman](https://raw.githubusercontent.com/mehedihasan9339/GraphQLHotChocolateAPI/refs/heads/master/delete-data-graphql-postman.png?token=GHSAT0AAAAAACRCHBVGGBMX3LXCDVUKHQR2ZZPXWSA)
+
+
 
